@@ -11,7 +11,7 @@
 - 💻 I enjoy solving real-world problems using Python, SQL, and cloud platforms like GCP and Databricks.
 - 📊 Tech Enthusiast.
 - 🚀 Always learning — exploring Databricks, cloud data engineering, and system design.
-- 📫 How to reach me: vaishalidewangan82768@gmail.com
+- 📫 How to reach me: vaishalidewangan82768@gmail.com or https://www.linkedin.com/in/vaishali-dewangan-2060721a5/
 - 😄 Pronouns: She/Her.
 
 <br><br>
@@ -19,7 +19,12 @@
 ## ⚔️ Tech Stack
 
 <br>
-
+   <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/python.svg"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postgresql.svg"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql.svg"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-cloud.svg"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/apache-spark.svg"></code>
+   <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kafka-icon.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-plusplus.svg"></code>
