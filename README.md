@@ -8,8 +8,8 @@
 
 
 👋 Hi there! I'm Vaishali, a Data Engineer, passionate about building scalable data solutions.
-- 💻 I enjoy solving real-world problems using Python, SQL, and cloud platforms like GCP.
-- 📊 Currently working on Power BI UI development and data modeling in the Travel & Hospitality domain.
+- 💻 I enjoy solving real-world problems using Python, SQL, and cloud platforms like GCP and Databricks.
+- 📊 Tech Enthusiast.
 - 🚀 Always learning — exploring Databricks, cloud data engineering, and system design.
 - 📫 How to reach me: vaishalidewangan82768@gmail.com
 - 😄 Pronouns: She/Her.
