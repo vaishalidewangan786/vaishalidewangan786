@@ -7,12 +7,10 @@
 ### 👋 ✨ Hi, I'm Vaishali Dewangan.
 
 
-I'm a prefinal year undergrad at NIT Raipur, Chattisgarh pursuing B.Tech. I'm a **Coder** and **Web Developement** Practioner. I am also planning on writing blogs on various technical topics.
-
-- 🔭 I develop front-end web-applications using React and Django.
-- 🌱 I solve problem-solving coding questions on leetcode, hackerrank, codechef and other platforms.
-- 👯 If you want a web application for your business idea or startup, then I can help you.
-- 💬 Open for discussion on my related Tech Stack(motive is exchange of knowledge). 
+👋 Hi there! I'm Vaishali, a Data Engineer, passionate about building scalable data solutions.
+- 💻 I enjoy solving real-world problems using Python, SQL, and cloud platforms like GCP.
+- 📊 Currently working on Power BI UI development and data modeling in the Travel & Hospitality domain.
+- 🚀 Always learning — exploring Databricks, cloud data engineering, and system design.
 - 📫 How to reach me: vaishalidewangan82768@gmail.com
 - 😄 Pronouns: She/Her.
 
